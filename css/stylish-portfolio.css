@@ -19,6 +19,10 @@ body {
   font-size: 4.5em;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
 h1 {
   font-family: 'Montserrat', sans-serif;
 }
